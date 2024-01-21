@@ -83,5 +83,8 @@
 
 
 ###
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4500&lines=Thanks+for+Visiting+✌️;+Shoot+me+a+message+on+Linkdin!;+I'm+always+down+to+collab" />
+</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
