@@ -1,7 +1,10 @@
-<h2 align="left">Hi 👋! My name is Neeraj Sharma and I'm a Software Developer, from India</h2>
+<h2 align="left">Hi <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35">&nbsp;! My name is Neeraj Sharma and I'm a Software Developer, from India</h2>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <!---<header></header><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="900"></header>
 <br><br>-->
-
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="900" alt="animated hello">
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pillar008&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -10,9 +13,6 @@
 
 ###
 
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
-</div>
 
 ###
 <!--- -- skills -------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -56,6 +56,9 @@
 
 <br><br>
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="700">
+<br><br>
+
 ###
 
 
@@ -65,8 +68,8 @@
 ###
 
 <br clear="both">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-<br><br>
 
 
 ###
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
