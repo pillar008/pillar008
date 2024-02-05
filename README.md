@@ -2,6 +2,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Neeraj+Sharma!;+I'm+a+Software+Developer;From+India+IN" />
 </h1>
 
+<img src="https://komarev.com/ghpvc/?username=pillar008&color=brightgreen" alt="watching_count" />
+
 <!--<h2 align="left">Hi <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35">&nbsp;! My name is Neeraj Sharma and I'm a Software Developer, from India</h2>-->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <!--<header></header><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="900"></header>
